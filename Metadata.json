@@ -1,7 +1,7 @@
 {
     "Author": "Jakob Gottlieb Svendsen",
     "ContentSize": 1610,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-sharepoint-list-item-(workflow)/master/Update-SPOnlineItem.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-sharepoint-list-item--workflow-/master/Update-SPOnlineItem.ps1",
     "DownloadCount": 1454,
     "Id": "Update-SharePoint-List-0e5f060c",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Purpose:Update a Sharepoint item using Tao Yangs SharePointSDK Module\u00a0This script uses an connection asset to connect called \"SharePoint Online Connection\".You need to create this connection after importing the SharePointDK Module.Get the module here: https://www.powershellgaller",
     "Title": "Update SharePoint List Item (Workflow)",
     "UpdatedDate": "2016-1-4T00:00:00",
-    "Url": "https://github.com/azureautomation/update-sharepoint-list-item-(workflow)",
+    "Url": "https://github.com/azureautomation/update-sharepoint-list-item--workflow-",
     "UserTags": "Microsoft Azure, SharePoint, Office 365"
 }
